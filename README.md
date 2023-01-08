@@ -1,6 +1,6 @@
 # Hi there, I'm Marcelo 👋
 
-## I'm an Engineer, Developer, and Treaveler!!
+## I'm an Engineer, Developer and Treaveler!!
 
 I'm an Control and Automation Engineer currently developing Hardware/Firmware and with the desire to develope Softwares 
 
@@ -12,8 +12,8 @@ I'm an Control and Automation Engineer currently developing Hardware/Firmware an
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/marceloeliassimon/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/marceloeliassimon/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/marceloeliassimon#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/marceloeliassimon#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/celosimon/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/celosimon/#gh-dark-mode-only)
@@ -24,9 +24,9 @@ I'm an Control and Automation Engineer currently developing Hardware/Firmware an
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Python" width="26px" src="./img/python.png" />
-<img align="left" alt="Java" width="26px" src="./img/java.png" />
-<img align="left" alt="C" width="26px" src="./img/C.png" />
+<img align="left" alt="Python" width="26px" src="./img/python.svg" />
+<img align="left" alt="Java" width="26px" src="./img/java.svg" />
+<img align="left" alt="C" width="26px" src="./img/c-programming.svg" />
 
 <br />
 <br />
