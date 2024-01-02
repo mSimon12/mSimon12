@@ -4,7 +4,7 @@
 
 I'm an Control and Automation Engineer currently developing Hardware/Firmware and with the desire to develope Softwares 
 
-- 🔭 I’m currently working as Embedded Hardware Developer
+- 🔭 I’m currently working as Embedded Systems Developer
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with development of applications
