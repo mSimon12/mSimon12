@@ -1,6 +1,6 @@
 # Hi there, I'm Marcelo 👋
 
-## I'm an Engineer, Developer and Treaveler!!
+## I'm an Engineer, Developer and Traveler!!
 
 I'm an Control and Automation Engineer currently developing Hardware/Firmware and with the desire to develope Softwares 
 
