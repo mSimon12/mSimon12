@@ -2,13 +2,14 @@
 
 ## I'm an Engineer, Developer and Traveler!!
 
-I'm an Control and Automation Engineer currently developing Hardware/Firmware and with the desire to develope Softwares 
+I'm an Control and Automation Engineer currently developing Hardware/Firmware and with the desire to develop Softwares 
 
 - 🔭 I’m currently working as Embedded Systems Developer
-- 🌱 I’m currently learning Python
+- 🌱 I’m proficient in Python and C
+- 💡 I'm improving my knowledge about Backend development
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with development of applications
-- ⚡ Fun fact: I can play tambourine, I just learned Snowboard and I sing really bad
+- ⚡ Fun facts: everyone think I am German or Nordic, I never had a dog and  my middle name was randomly chosen. 
 
 ### Connect with me:
 
