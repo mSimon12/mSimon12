@@ -1,15 +1,15 @@
-# Hi there, I'm Marcelo 👋
+# Hi there, 👋
 
-## I'm an Engineer, Developer and Traveler!!
 
-I'm an Control and Automation Engineer currently developing Hardware/Firmware and with the desire to develop Softwares 
+My name is Marcelo, and I'm an Embedded Software Enginner looking for a transition into Backened Developemt!
 
 - 🔭 I’m currently working as Embedded Systems Developer
-- 🌱 I’m proficient in Python and C
-- 💡 I'm improving my knowledge about Backend development
-- 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help with development of applications
-- ⚡ Fun facts: everyone think I am German or Nordic, I never had a dog and  my middle name was randomly chosen. 
+- 🌱 My expertise is focused on Python and C, but I am not afraid of coding with Java or learning a new language
+- 💡 I'm currently improving my knowledge about Backend and Web Development, check out this app [here](https://github.com/mSimon12/rental_system)
+- 💪🏼 I fell confortable with Flask framework, PostgreSQL, SQLite, testing and API development
+- 🚀 My next steps focus on improving my Docker knowledge, and learning Kubernets and AWS.
+- 👯 I’m looking to collaborate on Python project
+- 🤔 I’m looking to help on developing applications
 
 ### Connect with me:
 
