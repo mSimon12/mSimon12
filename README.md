@@ -1,7 +1,7 @@
 # Hi there, 👋
 
 
-My name is Marcelo, and I'm an Embedded Software Enginner looking for a transition into Backened Developemt!
+My name is Marcelo, and I'm an Embedded Software Enginner looking for a transition into Backened Development!
 
 - 🔭 I’m currently working as Embedded Systems Developer
 - 🌱 My expertise is focused on Python and C, but I am not afraid of coding with Java or learning a new language
