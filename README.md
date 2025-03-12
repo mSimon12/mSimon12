@@ -1,15 +1,17 @@
 # Hi there, 👋
 
 
-My name is Marcelo, and I'm an Embedded Software Enginner looking for a transition into Backened Development!
+### I'm an Engineer, Developer and Traveler!!
 
-- 🔭 I’m currently working as Embedded Systems Developer
-- 🌱 My expertise is focused on Python and C, but I am not afraid of coding with Java or learning a new language
-- 💡 I'm currently improving my knowledge about Backend and Web Development, check out this app [here](https://github.com/mSimon12/rental_system)
-- 💪🏼 I fell confortable with Flask framework, PostgreSQL, SQLite, testing and API development
+My name is Marcelo, I'm a Control and Automation Engineer by formation, but I got attracted by Programming. I have worked with Embedded Software for 3+ years and now I have been improving my skills to become a Backened Development!
+
+- 🔭 As Embedded Software Developer I know how to spare resources.
+- 🌱 My expertise is focused on Python and C, but I am not afraid of coding with Java or learning a new language. Look out this Go [To-Do App](https://github.com/mSimon12/to-do-app) I have developed within 2 weeks after I learned it.
+- 💡 I'm currently improving my knowledge about Backend and Web Development, and have already developed a [Rental System](https://github.com/mSimon12/rental_system) with Flask.
+- 💪🏼 I fell confortable with Flask framework, PostgreSQL, SQLite, testing and API development.
 - 🚀 My next steps focus on improving my Docker knowledge, and learning Kubernets and AWS.
-- 👯 I’m looking to collaborate on Python project
-- 🤔 I’m looking to help on developing applications
+- 👯 I’m looking to collaborate on Python and Go projects.
+- 🤔 I’m looking to help on developing applications.
 
 ### Connect with me:
 
@@ -29,6 +31,7 @@ My name is Marcelo, and I'm an Embedded Software Enginner looking for a transiti
 <img align="left" alt="Python" width="26px" src="./img/python.svg" />
 <img align="left" alt="Java" width="26px" src="./img/java.svg" />
 <img align="left" alt="C" width="26px" src="./img/c-programming.svg" />
+<img align="left" alt="Go" width="60px" src="./img/golang-icon.svg" />
 
 <br />
 <br />
