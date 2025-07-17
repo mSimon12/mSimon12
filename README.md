@@ -53,11 +53,10 @@ Feel free to reach out — I’m here to learn, share, and create cool stuff!
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/mSimon12/mSimon12/output/snake.svg" alt="Snake animation" />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mSimon12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -65,20 +64,7 @@ Feel free to reach out — I’m here to learn, share, and create cool stuff!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mSimon12&radius=16&theme=gotham&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mSimon12.mSimon12&right_color=darkcyan"  />
-</div>
+</div> -->
 </details>
-
-<img src="https://raw.githubusercontent.com/mSimon12/mSimon12/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mSimon12/mSimon12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mSimon12/mSimon12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mSimon12/mSimon12/output/pacman-contribution-graph.svg">
-</picture>
-
-###
