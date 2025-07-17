@@ -1,6 +1,6 @@
 <h1 align="left">Hey! I’m Marcelo — Engineer, Developer & Traveler 🌍</h1>
 
-I’m a software developer who loves building reliable and high-performance systems that just work — whether it’s tiny embedded devices or big cloud apps. I’ve got a solid background in embedded programming (think real-time healthcare monitoring systems) but lately, I’m diving deep into backend development and cloud-native stuff.
+I’m a software developer who loves building reliable and high-performance systems, from tiny embedded devices to large-scale cloud applications. I have a strong background in embedded programming, particularly in developing real-time monitoring systems for the healthcare industry. These days, I’m diving deep into backend development and cloud-native architectures.
 
 I’m all about writing clean, modular code that’s easy to test and maintain, because messy code is the worst! From C on embedded hardware to Python and Go in the cloud, I enjoy working across the full stack.
 
@@ -33,18 +33,15 @@ I love collaborating with other devs, swapping ideas, and keeping up with the la
 
 #### What I’m up to
 
-🔭 Skilled in squeezing every drop of performance from embedded systems (C is my old friend).
-🌱 Fluent in Python and C, but I’m always up for a new language adventure—like the Go To-Do app I built just two weeks after picking up Go!
-💡 Currently leveling up my backend and web development skills—Flask and PostgreSQL are my jam, and I’ve built a rental system using them.
-💪🏼 Comfortable with API development, testing, SQLite, and creating scalable apps.
-🚀 I’ve completed courses in Docker and Kubernetes, and have hands-on experience working with containerized apps and orchestration.
-☁️ Next on my list: diving deeper into AWS and other cloud services.
-
-👯 I’m excited to collaborate on Python and Go projects.
-🤔 Always happy to help build awesome applications and swap ideas with fellow devs.
-
-Feel free to reach out — I’m here to learn, share, and create cool stuff!
-
+<p align="left">🔭 Skilled in squeezing every drop of performance from embedded systems (C is my old friend).<br>
+🌱 Fluent in Python and C, but I’m always up for a new language adventure, like the Go <a href="https://github.com/mSimon12/to-do-app">ToDo app</a> I built just two weeks after picking up Go!<br>
+💡 Currently leveling up my backend and web development skills, Flask and PostgreSQL are my jam, and I’ve built a 
+<a href="https://github.com/mSimon12/rental_system">Rental System</a> using them.<br>
+💪🏼 Comfortable with API development, testing, SQLite, and creating scalable apps.<br>
+🚀 I’ve completed courses in Docker and Kubernetes, and have hands-on experience working with containerized apps and orchestration.<br>
+☁️ Next on my list: diving deeper into AWS and other cloud services.<br><br>
+👯 I’m excited to collaborate on Python and Go projects.<br>
+🤔 Always happy to help build awesome applications and swap ideas with fellow devs.<br><br>Feel free to reach out — I’m here to learn, share, and create cool stuff!</p>
 
 #### Let’s connect
 
