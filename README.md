@@ -1,46 +1,84 @@
-# Hi there, 👋
+<h1 align="left">Hey! I’m Marcelo — Engineer, Developer & Traveler 🌍</h1>
+
+I’m a software developer who loves building reliable and high-performance systems that just work — whether it’s tiny embedded devices or big cloud apps. I’ve got a solid background in embedded programming (think real-time healthcare monitoring systems) but lately, I’m diving deep into backend development and cloud-native stuff.
+
+I’m all about writing clean, modular code that’s easy to test and maintain, because messy code is the worst! From C on embedded hardware to Python and Go in the cloud, I enjoy working across the full stack.
+
+I love collaborating with other devs, swapping ideas, and keeping up with the latest trends. Always up for connecting with fellow coders and exploring cool new projects!
 
 
-### I'm an Engineer, Developer and Traveler!!
+#### Tech Stack
 
-My name is Marcelo, I'm a Control and Automation Engineer by formation, but I got attracted by Programming. I have worked with Embedded Software for 3+ years and now I have been improving my skills to become a Backened Development!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+</div>
 
-- 🔭 As Embedded Software Developer I know how to spare resources.
-- 🌱 My expertise is focused on Python and C, but I am not afraid of coding with Java or learning a new language. Look out this Go [To-Do App](https://github.com/mSimon12/to-do-app) I have developed within 2 weeks after I learned it.
-- 💡 I'm currently improving my knowledge about Backend and Web Development, and have already developed a [Rental System](https://github.com/mSimon12/rental_system) with Flask.
-- 💪🏼 I fell confortable with Flask framework, PostgreSQL, SQLite, testing and API development.
-- 🚀 My next steps focus on improving my Docker knowledge, and learning Kubernets and AWS.
-- 👯 I’m looking to collaborate on Python and Go projects.
-- 🤔 I’m looking to help on developing applications.
+#### What I’m up to
 
-### Connect with me:
+🔭 Skilled in squeezing every drop of performance from embedded systems (C is my old friend).
+🌱 Fluent in Python and C, but I’m always up for a new language adventure—like the Go To-Do app I built just two weeks after picking up Go!
+💡 Currently leveling up my backend and web development skills—Flask and PostgreSQL are my jam, and I’ve built a rental system using them.
+💪🏼 Comfortable with API development, testing, SQLite, and creating scalable apps.
+🚀 I’ve completed courses in Docker and Kubernetes, and have hands-on experience working with containerized apps and orchestration.
+☁️ Next on my list: diving deeper into AWS and other cloud services.
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/marceloeliassimon#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/marceloeliassimon#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/celosimon/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/celosimon/#gh-dark-mode-only)
+👯 I’m excited to collaborate on Python and Go projects.
+🤔 Always happy to help build awesome applications and swap ideas with fellow devs.
 
-### Languages and Tools:
+Feel free to reach out — I’m here to learn, share, and create cool stuff!
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg#gh-light-mode-only" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg#gh-dark-mode-only" />
-<img align="left" alt="Python" width="26px" src="./img/python.svg" />
-<img align="left" alt="Java" width="26px" src="./img/java.svg" />
-<img align="left" alt="C" width="26px" src="./img/c-programming.svg" />
-<img align="left" alt="Go" width="60px" src="./img/golang-icon.svg" />
 
-<br />
-<br />
+#### Let’s connect
 
----
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+</div>
+
+###
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mSimon12&theme=radical&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mSimon12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mSimon12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mSimon12&radius=16&theme=gotham&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mSimon12.mSimon12&right_color=darkcyan"  />
+</div>
 </details>
+
+<img src="https://raw.githubusercontent.com/mSimon12/mSimon12/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mSimon12/mSimon12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mSimon12/mSimon12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mSimon12/mSimon12/output/pacman-contribution-graph.svg">
+</picture>
+
+###
